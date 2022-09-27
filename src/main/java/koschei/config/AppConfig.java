@@ -14,7 +14,6 @@ public class AppConfig {
 
     @Bean
     public static Island2 getIsland(Wood3 wood) {
-
         return new Island2(wood);
     }
     @Bean
