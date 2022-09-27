@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Needle7 {
+
     @Autowired
     private Death8 death;
 
